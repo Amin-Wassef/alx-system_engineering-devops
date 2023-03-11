@@ -1,1 +1,1 @@
-Files describing describing what each script is doing
+This is the folder for alx 0x00-shell_basics
